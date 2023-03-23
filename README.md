@@ -18,5 +18,5 @@
   
   <div>
     <a href="https://instagram.com/izabele__cristina__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   
+   <a href="https://linkedin.com/in/izabele-cristina-3541a1200" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="+blank"</a>
   </div>
