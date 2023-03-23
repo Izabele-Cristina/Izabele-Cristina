@@ -2,8 +2,8 @@
 <div>
   <h1>Bem Vindo!</h1>
   <a href="https://github.com/Izabele-Cristina">
-    <img height="180m" width="45%" src="https://github-readme-stats.vercel.app/api?username=Izabele-Cristina&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izabele-Cristina&layout=compact&langs_count=16&theme=aura_dark"/>
+    <img height="180m" width="48%" src="https://github-readme-stats.vercel.app/api?username=Izabele-Cristina&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izabele-Cristina&layout=compact&langs_count=16&theme=aura_dark"/>
 </div>
   
 <div style="display: inline_block"><br>
